@@ -1,0 +1,2 @@
+Search by title: enter the complete or partial book title.
+Search by author: enter the author's name to find matching books.
