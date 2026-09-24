@@ -1,3 +1,2 @@
 Sherlock Holmes - Sir Arthur Conan Doyle - Mystery
->>>>>>> feature-edit
-harry potter - J. K> Rowling - Fantasy
+harry potter - J. K. Rowling - Fantasy
